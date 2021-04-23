@@ -50,6 +50,6 @@ O projeto em questão foi desenvolvido por 3 pessoas.
 
 Antonio Muniz - https://www.linkedin.com/in/antuniooh/
 
-Henrique Vital - https://www.linkedin.com/in/henrique-vital-carvalho-45a82b192/
+Henrique Vital - https://www.linkedin.com/in/henrique-vital-carvalho/
 
 Erik Silva - https://www.linkedin.com/in/erik-silva-39a62a185?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BZkEFnNZRQ5O3nN%2FyJ9XjaA%3D%3D
