@@ -1,4 +1,5 @@
-** Copiei os codigos de aula no arquivo src/main, porém não tenho a menor caralha de ideia de se ta certo -> TODO: Verificar**
+**Copiei os codigos de aula no arquivo src/main, porém não tenho a menor caralha de ideia de se ta certo -> TODO: Verificar**
+**Tem q fazer o item C e D**
 
 # DatabaseAnalysisProject
 
