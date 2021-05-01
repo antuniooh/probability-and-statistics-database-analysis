@@ -1,6 +1,3 @@
-**Copiei os codigos de aula no arquivo src/main, porém não tenho a menor caralha de ideia de se ta certo -> TODO: Verificar**
-**Tem q fazer o item C e D**
-
 # DatabaseAnalysisProject
 
 Projeto semestral para a matéria de Probabilidade e Estatística, disciplina cursada no Centro Universitário FEI. Consiste na análise de um database
