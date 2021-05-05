@@ -1,39 +1,43 @@
-**Copiei os codigos de aula no arquivo src/main, porém não tenho a menor caralha de ideia de se ta certo -> TODO: Verificar**
-**Tem q fazer o item C e D**
-
 # DatabaseAnalysisProject
 
 Projeto semestral para a matéria de Probabilidade e Estatística, disciplina cursada no Centro Universitário FEI. Consiste na análise de um database
 
 ## Funcionalidade
 
-**1 - Leitura** - Realiza a leitura do database, eliminando dados duplicados, das NAN e dados faltantes. 
+**1 - Leitura** - Realiza a leitura do database, eliminando dados duplicados, das NAN e dados faltantes. Além de definir o X e Y. O X se refere a primeira coluna do database e o Y a última
 
 ![image](images/read.png)
+![image](images/definexy.png)
 
 **2 - Média** - Realiza o cálculo da média para x e y.
 
-![image](images/regression.png)
+![image](images/media.png)
 
 **3 - Desvio padrão** - Realiza o cálculo do desvio padrão para x e y.
 
-![image](images/regression.png)
+![image](images/desvioPadrao.png)
 
 **4 - Mediana** - Realiza o cálculo da mediana para x e y.
 
-![image](images/regression.png)
+![image](images/mediana.png)
+
+**5 - Variância** - Realiza o cálculo da variância para x e y.
+
+![image](images/variancia.png)
 
 **5 - Histograma** - Determina o histograma de x e y.
 
-![image](images/coefficent.png)
+![image](images/histox.png)
+![image](images/histoy.png)
 
 **6 - Coeficiente de correlação** - Calcula o coeficiente de correlação de x e y.
 
-![image](images/pearson.png)
+![image](images/corr.png)
 
 **7 - Teste de normalidade** - Realiza o teste de normalidade para y e x.
 
-![image](images/spearman.png)
+![image](images/normalX.png)
+![image](images/normalY.png)
 
 ## Execução
 
