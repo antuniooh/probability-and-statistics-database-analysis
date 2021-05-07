@@ -58,3 +58,8 @@ Antonio Muniz - https://www.linkedin.com/in/antuniooh/
 Henrique Vital - https://www.linkedin.com/in/henrique-vital-carvalho/
 
 Erik Silva - https://www.linkedin.com/in/erik-silva-39a62a185?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BZkEFnNZRQ5O3nN%2FyJ9XjaA%3D%3D
+
+## Explicação
+O video abaixo foi postado no Youtube explicando o que foi desenvolvido.
+
+[![Watch the video](https://i.ytimg.com/vi/NMv0SSdDm-c/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDh7XoovfSfoZBLPZuDEHgpO9JoQA)](https://www.youtube.com/watch?v=NMv0SSdDm-c&t=19s)
