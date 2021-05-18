@@ -62,4 +62,4 @@ Erik Silva - https://www.linkedin.com/in/erik-silva-39a62a185?lipi=urn%3Ali%3Apa
 ## Explicação
 O video abaixo foi postado no Youtube explicando o que foi desenvolvido.
 
-[![Watch the video](https://i.ytimg.com/vi/NMv0SSdDm-c/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDh7XoovfSfoZBLPZuDEHgpO9JoQA)](https://www.youtube.com/watch?v=NMv0SSdDm-c&t=19s)
+[![Watch the video](https://i.ytimg.com/vi/NMv0SSdDm-c/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDh7XoovfSfoZBLPZuDEHgpO9JoQA)](https://youtu.be/u9Ki6DN7aiM)
