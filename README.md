@@ -39,55 +39,42 @@
 
 <!-- ABOUT THE PROJECT -->
 ## 💻 About The Project
-Projeto semestral para a matéria de Probabilidade e Estatística, disciplina cursada no Centro Universitário FEI. Consiste na análise de um database
+Semester project for the subject of Probability and Statistics, a subject attended at Centro Universitário FEI. It consists of analyzing a database
 
-## Funcionalidade
-
-**1 - Leitura** - Realiza a leitura do database, eliminando dados duplicados, das NAN e dados faltantes. Além de definir o X e Y. O X se refere a primeira coluna do database e o Y a última
+**1 - Read** - It reads the database, eliminating duplicate data, NAN and missing data. In addition to defining the X and Y. The X refers to the first column of the database and the Y to the last
 
 ![image](images/read.png)
 ![image](images/definexy.png)
 
-**2 - Média** - Realiza o cálculo da média para x e y.
+**2 - Average** - Performs averaging for x and y.
 
 ![image](images/media.png)
 
-**3 - Desvio padrão** - Realiza o cálculo do desvio padrão para x e y.
+**3 - Standard deviation** - Performs standard deviation calculation for x and y.
 
 ![image](images/desvioPadrao.png)
 
-**4 - Mediana** - Realiza o cálculo da mediana para x e y.
+**4 - Median** - Performs the median calculation for x and y.
 
 ![image](images/mediana.png)
 
-**5 - Variância** - Realiza o cálculo da variância para x e y.
+**5 - Variance** - Performs the variance calculation for x and y.
 
 ![image](images/variancia.png)
 
-**5 - Histograma** - Determina o histograma de x e y.
+**5 - Histogram** - Determines the histogram of x and y.
 
 ![image](images/histox.png)
 ![image](images/histoy.png)
 
-**6 - Coeficiente de correlação** - Calcula o coeficiente de correlação de x e y.
+**6 - Correlation Coefficient** - Calculates the correlation coefficient of x and y.
 
 ![image](images/corr.png)
 
-**7 - Teste de normalidade** - Realiza o teste de normalidade para y e x.
+**7 - Normality Test** - Performs normality test for y and x.
 
 ![image](images/normalX.png)
 ![image](images/normalY.png)
-
-## Execução
-
-Tanto no Windows quanto no Linux a execução é feita a partir da execução da linha a seguir no terminal, ou utilizando uma IDE de sua preferência. É necessário instalar certas bibliotecas antes de executar o projeto em si.
-
-```bash
-python main.py
-```
-
-O arquivo .ipynb pode ser executado também em sua plataforma de preferência, como Jupyter Notebook, Google Colab e afins, basta importar o arquivo "main.ipynb" e executar.
-
 
 <!-- HOW TO RUN -->
 ## 🚀 How To Run
